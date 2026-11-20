@@ -1,0 +1,13 @@
+*
+!backend/
+!backend/app/
+!backend/app/**
+!backend/requirements.txt
+!frontend/
+!frontend/**
+!.streamlit/
+!.streamlit/config.toml
+**/__pycache__/
+**/*.pyc
+frontend/tests/
+.streamlit/secrets.toml
